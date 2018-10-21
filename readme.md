@@ -1,7 +1,7 @@
-Dados de economia de combustível
+## Dados de economia de combustível
 Essas informações são fornecidas pela Agência de Proteção Ambiental dos EUA, pelo Departamento de Fontes Móveis e pelo Laboratório Nacional de Emissões de Combustível e Veículos.
 
-Atributo	Descrição
+### Atributo	Descrição
 Model	Fabricante e modelo do veículo
 Displ	Deslocamento do motor - o tamanho de um motor em litros
 Cyl	O número de cilindros de um motor específico=
@@ -23,3 +23,6 @@ SmartWay	Sim, Não ou Elite
 Comb CO2*	Emissões de CO2 cidade/estrada combinados em gramas por milha
 *Não incluídos no conjunto de dados de 2008
 **Não incluídos no conjunto de dados de 2018
+
+### parte 3
+[Parte 3](ajustando_tipos_de_dados_parte_3.md)
