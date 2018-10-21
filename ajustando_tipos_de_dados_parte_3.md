@@ -1,4 +1,4 @@
--## Ajustando tipos de dados - Parte 3
+## Ajustando tipos de dados - Parte 3
 Nesta última seção, você vai ajustar tipos de dados de colunas de mpg e classificação de emissão de gases do efeito estufa.
 
 Depois de concluir esses ajustes finais, veja os tipos de dados de todos os atributos dos dois conjuntos para confirmar que todas as mudanças que especificamos foram promovidas com sucesso. Veja todos eles de novo para lembrar:
