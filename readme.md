@@ -4,7 +4,7 @@ Essas informações são fornecidas pela Agência de Proteção Ambiental dos EU
 Atributo	Descrição
 Model	Fabricante e modelo do veículo
 Displ	Deslocamento do motor - o tamanho de um motor em litros
-Cyl	O número de cilindros de um motor específico
+Cyl	O número de cilindros de um motor específico=
 Trans	Tipo de transmissão e número de marchas
 Drive	Tipo de eixo de tração (2WD = tração em 2 rodas, 4WD = tração nas 4 rodas)
 Fuel	Tipo de combustível
